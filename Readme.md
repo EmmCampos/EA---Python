@@ -1,0 +1,1 @@
+Olá, esse projeto ensina algoritmos de forma simples em Python.
